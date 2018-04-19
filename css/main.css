@@ -662,6 +662,12 @@ footer {
   background-size: cover;
 }
 
+.flip .front.item16 {
+  background: url("../img/work16.jpg") top center no-repeat;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
 .flip {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
